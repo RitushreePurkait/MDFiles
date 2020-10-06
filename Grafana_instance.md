@@ -73,3 +73,10 @@ Access the service :
 ```
 http://<IPaddress>:30200
 ```
+Login using the following Credentials:
+
+```
+user: root
+password: secret
+
+```
